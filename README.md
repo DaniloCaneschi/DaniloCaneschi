@@ -1,5 +1,3 @@
-### Fala galera!!! Sou Danilo Caneschi 
-
 <div>
   
   ## 👨‍💻 Redes Sociais
